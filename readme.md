@@ -30,6 +30,12 @@ And the JS component and the end of your page
 
     <x-kodio-messaging-js></x-kodio-messaging-js>
 
+Feel free to publish views, migrations and assets to customize your own system:
+
+``` bash
+$ php artisan vendor:publish
+```
+
 ## Change log
 
 Please see the [changelog](changelog.md) for more information on what has changed recently.
