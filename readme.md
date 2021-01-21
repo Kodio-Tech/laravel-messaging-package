@@ -49,6 +49,9 @@ If you discover any security related issues, please email author email instead o
 ## License
 MIT
 
+## TODO
+- Send messages to multiple users
+
 [ico-version]: https://img.shields.io/packagist/v/kodio/laravel-messaging.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/kodio/laravel-messaging.svg?style=flat-square
 
