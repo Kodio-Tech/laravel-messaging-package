@@ -1,12 +1,12 @@
 {
     "name": "kodio/laravel-messaging",
     "description": "Laravel messaging package",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "Kodio Techologies",
             "email": "hola@kodio.tech",
-            "homepage": ""
+            "homepage": "https://www.kodio.tech"
         }
     ],
     "homepage": "https://github.com/kodio/laravel-messaging",
